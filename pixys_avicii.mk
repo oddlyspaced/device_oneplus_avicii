@@ -27,7 +27,7 @@ $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 # PixysOS Properties
 TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 1080
-TARGET_SUPPORT_APEX := true
+#TARGET_SUPPORT_APEX := true
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_USES_CARRIERSETTINGS := true
 
